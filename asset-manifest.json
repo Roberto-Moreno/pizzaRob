@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pizzaRob/static/css/main.073c9b0a.css",
+    "main.js": "/pizzaRob/static/js/main.02914e48.js",
+    "static/js/787.a59ae088.chunk.js": "/pizzaRob/static/js/787.a59ae088.chunk.js",
+    "static/media/logo.svg": "/pizzaRob/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pizzaRob/index.html",
+    "main.073c9b0a.css.map": "/pizzaRob/static/css/main.073c9b0a.css.map",
+    "main.02914e48.js.map": "/pizzaRob/static/js/main.02914e48.js.map",
+    "787.a59ae088.chunk.js.map": "/pizzaRob/static/js/787.a59ae088.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.02914e48.js"
+  ]
+}
