@@ -1,3 +1,9 @@
+# gp pages
+https://roberto-moreno.github.io/pizzaRob/
+
+## Características:
+
+* El sistema consiste en una web, en la cual se obtiene una matriz de datos con respecto a Pizzas (id, precios, detalles, imágenes), a través de un archivo Json.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
